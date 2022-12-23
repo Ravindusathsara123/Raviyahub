@@ -8,9 +8,7 @@
 		<meta property="og:title" content="Dark Nero Official" />
 		<meta property="og:description" content="Official website of Dark Nero Chat Bot and Kaveesha's Automated Social Media Tool Projects." />
 		<meta property="og:image" content=".images/kaveesha.jpg" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="assets/css/download.css" />
 	</head>
   
   <body>
